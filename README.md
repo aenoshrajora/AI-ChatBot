@@ -11,6 +11,7 @@ https://rapidapi.com/LightningDev/api/simple-chatgpt-api
 `pip install -r requirements.txt`
 
 `python main.py`
-
+# Program Tutorial
+https://youtu.be/jORbPW-wQa8?si=AppCx7gsnIKncsXq
 # Screenshots
 ![image.png](https://i.postimg.cc/X7cFsqBr/image.png)
